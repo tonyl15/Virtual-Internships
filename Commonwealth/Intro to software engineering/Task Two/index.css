@@ -1,0 +1,23 @@
+* {
+  font-family: Arial;
+}
+
+h1 {
+  color: green;
+  font-size: 36px;
+}
+
+/* Center the title */
+.center-title {
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+
+  color: rgb(0, 0, 0);
+}
+
+.body {
+    color: black;
+}
